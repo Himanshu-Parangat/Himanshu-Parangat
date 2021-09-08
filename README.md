@@ -4,7 +4,7 @@
       
 - 🌱 I’m currently learning web devlopment
 - 💞️ I’m looking to collaborate with anyone
-- 📫 How to reach me via email "martinmagnicoc@gmail.com"
+- 📫 reach me via email "martinmagnicoc@gmail.com"
 
 <!---
 Himanshu-Parangat/Himanshu-Parangat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
