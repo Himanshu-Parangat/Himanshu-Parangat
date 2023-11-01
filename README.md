@@ -14,3 +14,6 @@
  - [x] food
  - [x] linux
  - [ ] work
+
+![weeeee](https://tenor.com/view/tsurumaki-kokoro-yay-spin-anime-gif-15951248)
+
