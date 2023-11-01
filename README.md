@@ -15,5 +15,5 @@
  - [x] linux
  - [ ] work
 
-![weeeee](https://media.tenor.com/gNcXkIbCvpsAAAAi/tsurumaki-kokoro.gif)
+![weeeee](https://media.tenor.com/XHPA16k9QxUAAAAd/yuruyuri-kyoko.gif)
 
