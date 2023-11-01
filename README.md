@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Himanshu-Parangat
-- 👀 I’m interested in programming and solving problums
-      by exploreing various diffrent posible solutions 
-      
-- 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate with anyone
-- 📫 reach me via email "martinmagnicoc@gmail.com"
+# 🌸🌸@Himanshu-Parangat🌸🌸
+###  reach me via email "himanshuparangat005@gmail.com" 
 
-<!---
-Himanshu-Parangat/Himanshu-Parangat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## worked with
+   - Upstream Arch Linux
+   - Source-based Gentoo Linux
+   - Reproducible builds in NixOS
+   - windows server r3, and otheers.
+
+
+> Linux System Administrator with 4+ years of experience specializing in system administration, scripting, command-line operations, and deployment in a cybersecurity environment.
+
+ - [x] sleep  
+ - [x] food
+ - [x] linux
+ - [ ] work
