@@ -1,4 +1,5 @@
 # 🌸🌸@Himanshu-Parangat🌸🌸
+![weeeee](https://media.tenor.com/XHPA16k9QxUAAAAd/yuruyuri-kyoko.gif)
 ###  reach me via email "himanshuparangat005@gmail.com" 
 
 ## worked with
@@ -15,5 +16,5 @@
  - [x] linux
  - [ ] work
 
-![weeeee](https://media.tenor.com/XHPA16k9QxUAAAAd/yuruyuri-kyoko.gif)
+
 
